@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="RedemptionToys.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TMaterial.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DetectCard.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DragCard.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TMaterial.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
